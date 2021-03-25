@@ -1,0 +1,144 @@
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.exe
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.deps.json
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.json
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.dev.json
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfoInputs.cache
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfo.cs
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CoreCompileInputs.cache
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.Manifest.cache
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.xml
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetworthMicroservice.styles.css
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.RazorTargetAssemblyInfo.cache
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.genruntimeconfig.cache
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CopyComplete
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\KV\ASP. Net Core\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.exe
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.deps.json
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.json
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetworthMicroservice.styles.css
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\Admin\Desktop\Project\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.genruntimeconfig.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.exe
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.deps.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.dev.json
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csprojAssemblyReference.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfoInputs.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfo.cs
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.xml
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetworthMicroservice.styles.css
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CopyComplete
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\arvin\OneDrive\Desktop\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.exe
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.deps.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetworthMicroservice.styles.css
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\Admin\Desktop\Project - Final\Project 2\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.exe
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.deps.json
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.json
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\CalculateNetworthMicroservice.StaticWebAssets.xml
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\CalculateNetworthMicroservice.styles.css
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.dll
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.pdb
+C:\Users\Admin\Desktop\Project - Final - Copy\CalculateNetworthMicroservice\CalculateNetworthMicroservice\obj\Debug\netcoreapp3.1\CalculateNetworthMicroservice.genruntimeconfig.cache
